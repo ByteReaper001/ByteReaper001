@@ -1,84 +1,106 @@
-<!-- HEADER -->
-<h1 align="center"><code>Hi 👋, I'm Chaitanya Kherdikar</code></h1>
-<h3 align="center"><code>Aspiring DevOps & Cloud Engineer | AI & Data Science Background</code></h3>
+<!-- Header Section -->
+<h1 align="center"><font face="Arial">Hi 👋, I'm Chaitanya Kherdikar a.k.a <a href="https://x.com/CKay_Not_Found">ByteReaper</a></font></h1>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/chaitanya-kherdikar-3b6320381/">Chaitanya</a> is an aspiring DevOps & Cloud Engineer from India, currently learning how real systems scale, automate, and run in production.</font></h3>
 
-<hr>
+<!-- Let's Collaborate -->
+<h3 align="left"><font size="+2" face="Verdana">Let's Collaborate:</font></h3>
+<p align="left">
+  <a href="mailto:chaitanyakherdikar@gmail.com">Let’s build something cool → Reach out</a>
+</p>
 
-<!-- IMAGE -->
+<!-- GIF -->
 <p align="right">
-  <img src="https://raw.githubusercontent.com/ByteReaper001/ByteReaper001/main/assets/myimage.jpg" width="400"/>
+  <img height="340" src="https://raw.githubusercontent.com/ByteReaper001/ByteReaper001/main/assets/codebaby.gif" />
 </p>
 
-<!-- CONNECT -->
-<h3 align="left"><code>Connect with me:</code></h3>
+<!-- Section -->
+<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
-<p align="left">
-  📫 <code>Email:</code> <a href="mailto:yourmail@example.com">yourmail@example.com</a><br>
-  🔗 <code>LinkedIn:</code> <a href="https://www.linkedin.com/in/chaitanya-kherdikar-3b6320381/">LinkedIn</a><br>
-  🐦 <code>X (Twitter):</code> <a href="https://x.com/CKay_Not_Found">@CKay_Not_Found</a><br>
-  📸 <code>Instagram:</code> <a href="https://www.instagram.com/the_barred_photographer/">Instagram</a>
-</p>
+- I work on DevOps, Cloud, and infrastructure automation  
+- Currently learning how systems actually run in production  
+- Open to **Cloud-native Projects**  
 
-<hr>
+---
 
-<!-- ABOUT -->
-<h3 align="left"><code>About Me</code></h3>
-
-<pre>
-> DevOps | Cloud | Automation
-> Building scalable systems & infra pipelines
-> Open to collaborate on Cloud-native Projects
-</pre>
-
-<hr>
-
-<!-- SKILLS -->
-<h3 align="left"><code>Languages and Tools</code></h3>
-
-- I work on DevOps, Cloud, and everything around infrastructure automation.  
-- Looking to collaborate on <b>Cloud-native Projects</b>  
-
-<h4><code>Programming Language Stack</code></h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/swift/swift.png" width="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/go/go.png" width="40"/>
-</p>
-
-<h4><code>OS Stack</code></h4>
+### Programming Language Stack
 <p>
-<code>Windows</code> <code>Linux</code> <code>macOS</code> <code>Ubuntu</code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
 </p>
 
-<h4><code>Database Stack</code></h4>
+---
+
+### OS Stack
+
 <p>
-<code>Firebase</code> <code>MySQL</code> <code>PostgreSQL</code>
-</p>
-
-<h4><code>DevOps Stack</code></h4>
+### OS Stack
 <p>
-<code>AWS</code> <code>Azure</code> <code>GCP</code> <code>Terraform</code> <code>Jenkins</code> <code>CircleCI</code> <code>GitHub Actions</code> <code>Docker</code> <code>Kubernetes</code> <code>GitLab</code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
+<img src="https://img.icons8.com/color/48/mac-os.png" width="40"/>
 </p>
+---
 
-<h4><code>Project Management Stack</code></h4>
+### Database Stack
 <p>
-<code>Git</code> <code>GitHub</code> <code>Jira</code> <code>Trello</code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
 </p>
 
-<h4><code>Editor / IDE I ♥</code></h4>
+---
+
+### Dev Stack
 <p>
-<code>VS Code</code> <code>Cursor</code> <code>Framer</code> <code>Codex</code> <code>Antigravity</code> <code>Xcode</code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </p>
 
-<hr>
+---
 
-<!-- FOOTER -->
-<p align="center">
-  <code>⚡ Automating everything that can be automated</code>
+### DevOps Stack 
+<p>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
 </p>
+
+---
+
+### Project Management Stack
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40"/>
+</p>
+
+---
+
+### Editor / IDE
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40"/>
+</p>
+
+---
+
+### Connect with me
+
+- 💬 Ask me about **DevOps, Cloud, or Photography**
+- 📫 **chaitanyakherdikar@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/chaitanya-kherdikar-3b6320381/
+- 🐦 Twitter: https://x.com/CKay_Not_Found
+- 📸 Instagram: https://www.instagram.com/the_barred_photographer/
+- ⚡ Fun fact: I shoot cinematic & astrophotography
