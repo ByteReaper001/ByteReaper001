@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ByteReaper001/ByteReaper001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/hero.svg" alt="ByteReaper Terminal" width="100%" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ByteReaper001-181717?style=flat-square&logo=github)](https://github.com/ByteReaper001)
+[![Google Developer](https://img.shields.io/badge/Google%20Developer-Ckay-4285F4?style=flat-square&logo=google)](https://g.dev/Ckay)
+[![X](https://img.shields.io/badge/X-@CKay__Not__Found-000000?style=flat-square&logo=x)](https://x.com/CKay_Not_Found)
+[![Instagram](https://img.shields.io/badge/Photography-@the__barred__photographer-E4405F?style=flat-square&logo=instagram)](https://instagram.com/the_barred_photographer)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ More sections are coming soon.
+
+</div>
