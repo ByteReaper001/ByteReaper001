@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="1400"
+height="760"
+viewBox="0 0 1400 760">
+
+<defs>
+
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+.background{
+fill:#0d1117;
+}
+
+.window{
+fill:#161b22;
+stroke:#30363d;
+stroke-width:2;
+}
+
+.title{
+fill:#0d1117;
+stroke:#30363d;
+stroke-width:2;
+}
+
+.text{
+fill:#c9d1d9;
+font-family:'JetBrains Mono',monospace;
+font-size:20px;
+}
+
+.small{
+fill:#8b949e;
+font-family:'JetBrains Mono',monospace;
+font-size:18px;
+}
+
+.blue{
+fill:#79c0ff;
+font-family:'JetBrains Mono',monospace;
+font-size:20px;
+}
+
+.green{
+fill:#3fb950;
+font-family:'JetBrains Mono',monospace;
+font-size:20px;
+}
+
+.orange{
+fill:#ffa657;
+font-family:'JetBrains Mono',monospace;
+font-size:20px;
+}
+
+.purple{
+fill:#d2a8ff;
+font-family:'JetBrains Mono',monospace;
+font-size:20px;
+}
+
+.grayline{
+stroke:#30363d;
+stroke-width:2;
+}
+
+</style>
+
+</defs>
+
+<rect
+class="background"
+width="1400"
+height="760"/>
+
+<rect
+class="window"
+x="40"
+y="30"
+width="1320"
+height="690"
+rx="16"/>
+
+<rect
+class="title"
+x="40"
+y="30"
+width="1320"
+height="48"
+rx="16"/>
+
+<circle cx="68" cy="54" r="7" fill="#ff5f56"/>
+<circle cx="92" cy="54" r="7" fill="#ffbd2e"/>
+<circle cx="116" cy="54" r="7" fill="#27c93f"/>
+
+<text
+x="660"
+y="59"
+text-anchor="middle"
+class="small">
+
+Ghostty
+
+</text>
+
+<line
+x1="390"
+y1="78"
+x2="390"
+y2="720"
+class="grayline"/>
