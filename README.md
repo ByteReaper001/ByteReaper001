@@ -1,169 +1,99 @@
 <div align="center">
 
-<!-- Typing animation header -->
-<a href="https://github.com/ByteReaper001">
-  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;AI+%26+Data+Science+Student;Frontend+Enthusiast;Database+Tinkerer&font=Fira+Code&center=true&width=440&height=45&color=CBA6F7&vCenter=true&size=22&pause=1500&background=1A1B26"/>
-</a>
+# Chaitanya Kherdikar
 
 </div>
 
----
-
+```
+┌──────────────────────────────────────────────────┬────────────────────────────────────────────────────────┐
+│                                                  │  byteReaper@github                                     │
+│                     ..:::::.                     │  ────────────────────────────────────────────────────  │
+│                   :+##%%%@%%*+-.                 │  Name        : Chaitanya Kherdikar                     │
+│                 .*%%%%%%%@%%%@@%-                │  Alias       : Ckay / ByteReaper                       │
+│                 +%@@@%%%@%%#**#@*                │  Role        : DevOps Engineer                         │
+│                 #%@#*+====----=#%-               │                AI & Data Science Student               │
+│                 %%*++**=-:=*#*==%%.              │                                                        │
+│                 +#-+*##*: =*#*=:++               │  Education   : Vishwakarma University                  │
+│                 .*::::::..::....-.               │  Degree      : B.Tech AI & Data Science                │
+│                  .:.  .=+++:. ..:                │  Year        : Second Year                             │
+│                   ::::-=+++==:::.                │                                                        │
+│                    :-=++======-:                 │  OS          : Windows 11 Pro                          │
+│                     =**++===++=-                 │  Terminal    : Ghostty                                 │
+│                     +*######*++=:                │  Shell       : PowerShell 7                            │
+│                 .:-=+***##***++=-=++=:.          │  Editor      : VS Code                                 │
+│           .:-==*************+===-+%%##*++==-:.   │  Font        : JetBrains Mono                          │
+│        .=****#*##*#%%#*++====--=*%@%###******+=  │                                                        │
+│     :+++***####%####%%%%##***##%@@%%%#*#***####  │  Languages   : Python, Go, TypeScript                  │
+│   -+#****###%#%####*#%#%%@@@@@@%%%%###*****###%  │                JavaScript, SQL, C/C++                  │
+│  +####%%%#%%%%%%#####%%##%%%%%%################  │                HTML, CSS                               │
+│  ***###%%%%%%%%@%%%##%%####%###################  │                                                        │
+│  ****###%%%@@%%%%%%%#%%%###%%#%%###############  │  Frontend    : React, Next.js                          │
+│  **###%%%%%@%*****%%%%%%##%%%%%%%%%%#=++++++++#  │                Flutter, Tailwind, shadcn/ui            │
+│  ***##%%%@@@%#####%%%%%%%#%%%@%%%%%%%*********#  │                                                        │
+│  ####%%%%%@@@@@@@@@%%%%%%%%%%%@%%%%%%%%%%%%%%%#  │  Backend     : Node, Express, FastAPI                  │
+│  **###%%%%@@@@@@@@@@%%%%%%%%%%%%%%@@%%%%#%%%%%#  │                                                        │
+│  *###%%%%@@@@@@@@@@@%%%%%%%%@@@@%%@%@@%%%%%%%%%  │  Database    : PostgreSQL, MongoDB, Supabase           │
+│  ####%%%@@@@@@@@@@@@@%%@@@@@@%%%%@@@@@@%@@@%%%%  │                                                        │
+│                                                  │  DevOps      : Docker, Kubernetes, Helm                │
+│                                                  │                Terraform, Jenkins, Ansible             │
+│                                                  │                GitHub Actions, Nginx                   │
+│                                                  │                                                        │
+│                                                  │  Cloud       : Google Cloud, AWS, Azure                │
+│                                                  │                                                        │
+│                                                  │  Focus       : Building SkillIO                        │
+│                                                  │                AI Career Intelligence Platform         │
+│                                                  │                                                        │
+│                                                  │  Alive Time  : Dynamic (Since 06-Dec-2007)             │
+│                                                  │                                                        │
+│                                                  │  Status      : Open to Collaborate                     │
+└──────────────────────────────────────────────────┴────────────────────────────────────────────────────────┘
 ```
 
-                                                        chaitanya@bytereaper
-                                                        --------------------
-                       ....                            OS: ............... Learning DevOps, Building in Public
-                    :*#%%%%%#+:                        Uptime: ........... 2nd Year @ Vishwakarma University
-                  :*%@@%%%@@@@@%-                      Host: ............. Pune, Maharashtra, India
-                  *@@@@@@@@@%#%@#                      Kernel: ........... B.Tech - AI & Data Science (2029)
-                  %@@%##****+=+%%:                     Shell: ............ DevOps Engineer | AI/DS Student
-                 .%%#**+=--+**++%%.                     
-                  %#+*#%%=-#%%*=*#                     Languages.Core: ... Python, C, C++, JS, TS, Go
-                  =*=+++=..-==--=-                     Languages.Web: .... HTML, CSS, SQL
-                  .=:..:=+==:..:-.                    
-                   .-::-=**+=----                      Frontend: ......... React, Next.js, Flutter, Tailwind, shadcn/ui
-                    :==+*****+=-.                      Backend: .......... Node.js, Express, FastAPI
-                     -***+==+++=                       Databases: ........ PostgreSQL, Supabase, MongoDB
-                     -*######**+:                      Cloud: ............ AWS, Azure, GCP
-                    .=*#%%%%##*+=-:..                  DevOps: ........... Docker, Kubernetes, Helm, Terraform,
-              ..:-=+**#######*++=+%%*+=-:.                                  GitHub Actions, Nginx, Ansible, Jenkins
-           :=++*##%####******++==#@%%####**+-.         Tools: ............ Git, Figma, Android Studio, VS Code,
-        :-=*#####%%#%%%##*++++=+#@@%%########*-                             Antigravity, Ghostty
-      .=*#####%%%%%##%%%@%%%%%%@@@@%%######%%%#=.
-    .=*%####%%%%%%####%%%%@@@@@%%%%%%#######%%%#*:     Hobbies.Creative: . Music Production, Street Photography, Editing
-   .=##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#####%%%%##     Hobbies.Life: ..... Coffee Addict, Cloud Explorer
+<div align="center">
 
+### Tech Stack
 
-                                                        - Contact ---------------------------------------------
-                                                        Email: ............ chaitanyakherdikar@gmail.com
-                                                        GitHub: ........... github.com/ByteReaper001
-                                                        Twitter/X: ........ x.com/CKay_Not_Found
-                                                        Instagram: ........ @the_barred_photographer
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-```
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🚧 Currently
+</div>
 
-- 🛠️ Building **Skill/Io** — *your AI-powered career intelligence platform*
-- 📚 Learning **Kubernetes, Docker, Helm, Terraform**
-- 🌩️ Exploring **cloud-native architecture**
-- 🗄️ Mastering **databases**
-- 🌱 Contributing to **open-source projects**
+<br>
 
-> *"Automating the infrastructure, analyzing the data, and setting it all to a beat."*
+<div align="center">
 
----
+### GitHub Stats
 
-### 🧰 Tech Stack
+<img src="https://github-readme-stats.vercel.app/api?username=byteReaper&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=byteReaper&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/C-1A1B26?style=for-the-badge&logo=c&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/C++-1A1B26?style=for-the-badge&logo=cplusplus&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/TypeScript-1A1B26?style=for-the-badge&logo=typescript&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/Go-1A1B26?style=for-the-badge&logo=go&logoColor=CBA6F7" />
-  <br/>
-  <img src="https://img.shields.io/badge/React-1A1B26?style=for-the-badge&logo=react&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/Next.js-1A1B26?style=for-the-badge&logo=nextdotjs&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/Flutter-1A1B26?style=for-the-badge&logo=flutter&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/Tailwind-1A1B26?style=for-the-badge&logo=tailwindcss&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/shadcn/ui-1A1B26?style=for-the-badge&logo=shadcnui&logoColor=CBA6F7" />
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=nodedotjs&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/Express-1A1B26?style=for-the-badge&logo=express&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/FastAPI-1A1B26?style=for-the-badge&logo=fastapi&logoColor=CBA6F7" />
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1A1B26?style=for-the-badge&logo=postgresql&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/Supabase-1A1B26?style=for-the-badge&logo=supabase&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/MongoDB-1A1B26?style=for-the-badge&logo=mongodb&logoColor=CBA6F7" />
-  <br/>
-  <img src="https://img.shields.io/badge/AWS-1A1B26?style=for-the-badge&logo=amazonaws&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/Azure-1A1B26?style=for-the-badge&logo=microsoftazure&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/GCP-1A1B26?style=for-the-badge&logo=googlecloud&logoColor=CBA6F7" />
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/Kubernetes-1A1B26?style=for-the-badge&logo=kubernetes&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/Terraform-1A1B26?style=for-the-badge&logo=terraform&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-1A1B26?style=for-the-badge&logo=githubactions&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/Nginx-1A1B26?style=for-the-badge&logo=nginx&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/Ansible-1A1B26?style=for-the-badge&logo=ansible&logoColor=CBA6F7" />
-  <img src="https://img.shields.io/badge/Jenkins-1A1B26?style=for-the-badge&logo=jenkins&logoColor=CBA6F7" />
-</p>
+</div>
 
----
+<br>
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ByteReaper001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteReaper001&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" />
-</p>
+### Connect
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteReaper001&theme=tokyonight&hide_border=true&background=1A1B26" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
----
-
-### 🏅 Certifications & Badges
-
-- ☁️ Google Maps Platform Innovators
-- 🔥 Firebase Studio Developer Community
-- 🤖 I/O 2026 — Registered
-- ☁️ Google Cloud & NVIDIA Community Member
-- ✨ Gemini Enterprise Agent Ready
-- 🧑‍💻 Google Developer Group on Campus Member
-- 🎓 5-Day AI Agents: Intensive Vibe Coding Course With Google
-
-<details>
-<summary><b>Show all Google Cloud Skill Badges (20+)</b></summary>
-<br/>
-
-- Analyze Speech and Language with Google APIs
-- Prompt Design in Agent Platform
-- Get Started with Looker *(Deprecated)*
-- Develop with Apps Script and AppSheet
-- Organize and Govern Data with Knowledge Catalog
-- Set Up a Google Cloud Network
-- Build a Website on Google Cloud
-- Implement Speech and Language Solutions with Pre-trained APIs
-- Monitoring in Google Cloud
-- Deploy and Manage Applications on Google App Engine
-- Build Serverless Applications with Cloud Run Functions
-- Store, Process, and Manage Data on Google Cloud - Console
-- Develop Gen AI Apps with Gemini and Streamlit
-- App Building with AppSheet
-- Implement Cloud Collaboration and Productivity Workflows
-- Deploy and Secure Serverless APIs with API Gateway
-- Implement Event-Driven Messaging and Automation Workflows
-- Implement Cloud Storage and Data Protection Solutions
-- Level 3: Generative AI
-- The Basics of Google Cloud Compute
-
-</details>
-
----
-
-### 🎧 Now Playing & Daily Quote
-
-<p align="center">
-  <!-- Spotify card: requires one-time setup, see note below -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=REPLACE_WITH_YOUR_UID&cover_image=true&theme=default&show_offline=false&background_color=1A1B26&bar_color=CBA6F7&bar_color_cover=false" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ByteReaper001&style=for-the-badge&color=CBA6F7&label=PROFILE+VIEWS" />
-  <a href="https://x.com/CKay_Not_Found"><img src="https://img.shields.io/badge/Twitter/X-1A1B26?style=for-the-badge&logo=x&logoColor=CBA6F7" /></a>
-  <a href="https://instagram.com/the_barred_photographer"><img src="https://img.shields.io/badge/Instagram-1A1B26?style=for-the-badge&logo=instagram&logoColor=CBA6F7" /></a>
-  <a href="mailto:chaitanyakherdikar@gmail.com"><img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=CBA6F7" /></a>
-</p>
+</div>
